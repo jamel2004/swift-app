@@ -3,7 +3,8 @@
 //  Swift App
 //
 //  Created by Jamel Williams on 2/1/17.
-//  Copyright © 2017 Jamel Williams. All rights reserved.
+//  Copyright © 2017 Jamel Williams. All rights reserved..
+
 //
 
 import UIKit
